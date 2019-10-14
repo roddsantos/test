@@ -1,12 +1,9 @@
 {
     "modules": [
-        {
-            "id": 1,
-            "title": "Modulo 1",
+        { "id": 1, "title": "Modulo 1",
             "desc": "Module description",
             "data": "09/10/19",
-            "features": 12
-        },
+            "features": 12 },
         {
             "id": 2,
             "title": "Modulo 2",
