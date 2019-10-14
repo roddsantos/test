@@ -1,81 +1,81 @@
 {
-    modules: [
+    "modules": [
         {
-            id: 1,
-            title: "Modulo 1",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 12
+            "id": 1,
+            "title": "Modulo 1",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 12
         },
         {
-            id: 2,
-            title: "Modulo 2",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 2
+            "id": 2,
+            "title": "Modulo 2",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 2
         },
         {
-            id: 3,
-            title: "Modulo 3",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 5
+            "id": 3,
+            "title": "Modulo 3",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 5
         },
         {
-            id: 4,
-            title: "Modulo 4",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 7
+            "id": 4,
+            "title": "Modulo 4",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 7
         },
         {
-            id: 5,
-            title: "Modulo 5",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 14
+            "id": 5,
+            "title": "Modulo 5",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 14
         },
         {
-            id: 6,
-            title: "Modulo 6",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 9
+            "id": 6,
+            "title": "Modulo 6",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 9
         },
         {
-            id: 7,
-            title: "Modulo 7",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 10
+            "id": 7,
+            "title": "Modulo 7",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 10
         },
         {
-            id: 8,
-            title: "Modulo 8",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 12
+            "id": 8,
+            "title": "Modulo 8",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 12
         },
         {
-            id: 9,
-            title: "Modulo 9",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 13
+            "id": 9,
+            "title": "Modulo 9",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 13
         },
         {
-            id: 10,
-            title: "Modulo 10",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 4
+            "id": 10,
+            "title": "Modulo 10",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 4
         },
         {
-            id: 11,
-            title: "Modulo 11",
-            desc: "Module description",
-            data: "09/10/19",
-            features: 6
+            "id": 11,
+            "title": "Modulo 11",
+            "desc": "Module description",
+            "data": "09/10/19",
+            "features": 6
         }
     ]
 }
