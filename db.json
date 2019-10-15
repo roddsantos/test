@@ -2,7 +2,9 @@
     "user": {
         "name": "Rodrigo"
     },
-    "token": "abcd",
+    "token": {
+        "token": "abcd"
+    },
     "modules": [
         { "id": 1, "title": "Modulo 1",
             "desc": "Module description",
