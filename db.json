@@ -1,5 +1,7 @@
 {
-    "usuario": "Rodrigo",
+    "user": {
+        "name": "Rodrigo"
+    },
     "token": "abcd",
     "modules": [
         { "id": 1, "title": "Modulo 1",
