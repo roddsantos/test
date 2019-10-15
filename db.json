@@ -5,12 +5,14 @@
         { "id": 1, "title": "Modulo 1",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/event-24px.svg",
             "features": 12 },
         {
             "id": 2,
             "title": "Modulo 2",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/main-24px.svg",
             "features": 2
         },
         {
@@ -18,6 +20,7 @@
             "title": "Modulo 3",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/pets-24px.svg",
             "features": 5
         },
         {
@@ -25,6 +28,7 @@
             "title": "Modulo 4",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/wb_cloudy-24px.svg",
             "features": 7
         },
         {
@@ -32,6 +36,7 @@
             "title": "Modulo 5",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/mail-24px.svg",
             "features": 14
         },
         {
@@ -39,6 +44,7 @@
             "title": "Modulo 6",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/pets-24px.svg",
             "features": 9
         },
         {
@@ -46,6 +52,7 @@
             "title": "Modulo 7",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/wb_cloudy-24px.svg",
             "features": 10
         },
         {
@@ -53,6 +60,7 @@
             "title": "Modulo 8",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/mail-24px.svg",
             "features": 12
         },
         {
@@ -60,6 +68,7 @@
             "title": "Modulo 9",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/wb_cloudy-24px.svg",
             "features": 13
         },
         {
@@ -67,6 +76,7 @@
             "title": "Modulo 10",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/event-24px.svg",
             "features": 4
         },
         {
@@ -74,6 +84,7 @@
             "title": "Modulo 11",
             "desc": "Module description",
             "data": "09/10/19",
+            "icon": "/pets-24px.svg",
             "features": 6
         }
     ]
