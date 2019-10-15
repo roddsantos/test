@@ -1,4 +1,6 @@
 {
+    "name": "Rodrigo",
+    "token": "abcdefg",
     "modules": [
         { "id": 1, "title": "Modulo 1",
             "desc": "Module description",
